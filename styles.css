@@ -10,5 +10,5 @@ subtitle { margin-right: 6em; color: maroon; width: 250px; font-family: Courier;
 .chanin b { font-weight: 800; color: red; }
 .chantop { font-family: courier new; text-align: right; font-size: 11px; margin-bottom: 1em; }
 .chantop b { font-weight: 700; }
-#testP { }
+#testP { display:block; }
 .funParagraph { color: green; }
