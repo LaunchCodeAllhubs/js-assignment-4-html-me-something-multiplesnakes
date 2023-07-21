@@ -1,1 +1,14 @@
-/* Write your CSS here! */
+body { background: #585857; display: block; margin: 8px; }
+
+#outside { display: flex; justify-content: space-between; width: 50%; }
+h2 {  text-align: left; font-family: Arial; font-size: 1.5em; padding: 1em; font-weight: 700; margin-bottom: 1em; width: 50%;  }
+subtitle { margin-right: 6em; color: maroon; width: 250px; font-family: Courier; }
+#mainHeading { text-align: left; font-family: Arial; font-size: 1.5em; padding: 1em; font-weight: 700; margin-bottom: 1em; width: 50%; color: red; }
+#newthread { text-align: right; padding: 1em; margin-top: 1.8em; font-family: courier new; font-size: .8em; }
+.chanout { padding: 1em; margin-bottom: .4em; width: 50%; border-radius: 5px; background: #ffe5d9; border: 1px solid black; }
+.chanin { margin-left: 1em; font-family: courier new; font-size: .8em; font-weight: 600; text-align: left; }
+.chanin b { font-weight: 800; color: red; }
+.chantop { font-family: courier new; text-align: right; font-size: 11px; margin-bottom: 1em; }
+.chantop b { font-weight: 700; }
+#testP { display:block; }
+.funParagraph { color: green; }
